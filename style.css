@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #22254b;
-  --secondary-color: #373b69;
+  --secondary-color: #42477e;
 }
 
 * {
@@ -94,7 +94,7 @@ main {
 }
 
 .overview {
-  background-color: #fff;
+  background-color: #777;
   padding: 2rem;
   position: absolute;
   left: 0;
